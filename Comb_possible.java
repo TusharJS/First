@@ -13,4 +13,3 @@ class Comb_possible {
 		}
 	}
 }
-
