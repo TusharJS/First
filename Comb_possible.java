@@ -14,4 +14,3 @@ class Comb_possible {
 	}
 }
 
-// why it not commited yet
